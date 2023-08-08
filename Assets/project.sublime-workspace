@@ -1,0 +1,230 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"omnisharp",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"format",
+				"Formatter: Beautify With Prettier"
+			],
+			[
+				"reload",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"omni",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 342.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/aryan/Desktop/Unity/Tank Game Remade/Assets/Scripts/JumpPad.cs",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/Assets/Scripts/MultipleTargetCamera.cs",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/Assets/Scripts/KillTank.cs",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/Assets/Scripts/FireBallExplosionEffect.cs",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/Assets/Scripts/FireBall.cs",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/Assets/Scripts/Controls.cs",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/Assets/Scripts/SceneChanging.cs",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/Assets/Scripts/TankHealth.cs",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/Assets/Scripts/TankMovement.cs",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/Assets/Scripts/TankShooting.cs",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/Assets/Scripts/UpdateText.cs",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/Assets/Scripts/ChangePower.cs",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/Assets/Scripts/Bullet.cs",
+		"/home/aryan/.config/sublime-text-3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/Assets/project.sublime-project",
+		"/home/aryan/Desktop/Unity/project.sublime-project",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/project.sublime-project",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/0",
+		"/home/aryan/Desktop/Unity/Tank Game Remade/'/home/aryan/Desktop/Unity/Tank Game Remade/Assets/Scripts/Bullet.cs'",
+		"/home/aryan/.config/sublime-text-3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/home/aryan/.config/sublime-text-3/Packages/TabNine/TabNine.sublime-settings",
+		"/home/aryan/.config/sublime-text-3/Packages/Default/exec.py"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 52.0
+	},
+	"input":
+	{
+		"height": 74.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 294.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 294.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 100.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
